@@ -17,6 +17,7 @@ The system calculates the **total and average marks**, identifies the **highest 
 * Search for a student
 * Rank students based on marks
 * Display a complete student performance report
-output:<img width="580" height="710" alt="Image" src="https://github.com/user-attachments/assets/274645e8-effc-469a-88c8-aa691a2d98b7" />
+output:
 <img width="680" height="676" alt="Image" src="https://github.com/user-attachments/assets/1856ad66-f0b8-4c5a-81f6-c42f079fc017" />
+<img width="580" height="710" alt="Image" src="https://github.com/user-attachments/assets/274645e8-effc-469a-88c8-aa691a2d98b7" />
 <img width="580" height="710" alt="Image" src="https://github.com/user-attachments/assets/274645e8-effc-469a-88c8-aa691a2d98b7" />
